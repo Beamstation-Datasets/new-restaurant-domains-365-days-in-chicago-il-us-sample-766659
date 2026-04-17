@@ -1,0 +1,22 @@
+{
+  "base_price": 1495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--The Startup List--\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains < 365 days in Chicago, IL, US",
+  "export_job_id": "68c50829-8f3e-474f-b8b1-950b8487f4b8",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 766659,
+  "location_name": "Chicago",
+  "location_type": "city",
+  "repo_name": "new-restaurant-domains-365-days-in-chicago-il-us-sample-766659",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/766659/beamstation_766659_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 9.79,
+  "sample_records": 38,
+  "sample_sha256": "af4a5a779a341e4a7072ef42f160595e2abdde6ff57947dcb5ef9b3e657a4cec",
+  "sample_size_bytes": 152696,
+  "total_records": 388,
+  "updated_at": "2026-04-08T06:14:30.616277+00:00"
+}
