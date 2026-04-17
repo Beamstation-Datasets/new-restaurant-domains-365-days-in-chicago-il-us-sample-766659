@@ -1,0 +1,12 @@
+{
+  "export_job_id": "68c50829-8f3e-474f-b8b1-950b8487f4b8",
+  "id_short": 766659,
+  "published_at": "2026-04-17T07:04:16Z",
+  "repo_name": "new-restaurant-domains-365-days-in-chicago-il-us-sample-766659",
+  "sample_asset_name": "beamstation_766659_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/766659/beamstation_766659_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_records": 38,
+  "sample_sha256": "af4a5a779a341e4a7072ef42f160595e2abdde6ff57947dcb5ef9b3e657a4cec",
+  "sample_size_bytes": 152696,
+  "total_records": 388
+}
